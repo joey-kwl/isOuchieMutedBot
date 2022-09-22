@@ -1,5 +1,5 @@
 # Is Ouchie Muted Bot
-This is a Discord bot that check if I'm muted and send the data over WebSocket to all connected data.
+This is a Discord bot that checks if I am muted and sends the data over WebSocket to all connected devices.
 
 <img src="https://github.com/ChineseOuchie/isOuchieMutedBot/blob/master/IsOuchieMutedBot.gif" width="200px">
 
